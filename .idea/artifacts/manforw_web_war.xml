@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="manforw-web:war">
+    <output-path>$PROJECT_DIR$/manforw-web/target</output-path>
+    <root id="archive" name="manforw-web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="manforw-web:war exploded" />
+    </root>
+  </artifact>
+</component>
